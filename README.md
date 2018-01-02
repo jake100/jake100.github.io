@@ -1,2 +1,2 @@
 # jake100.github.io
-website made with java
+website made with javascript
